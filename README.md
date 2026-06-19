@@ -13,7 +13,7 @@ de um setor de injeção plástica, com dados extraídos do ERP Protheus.
 Os dados analisados são provenientes de um setor industrial com:
 - **19 injetoras** monitoradas
 - **Múltiplos operadores** por turno
-- **Centenas de moldes** cadastrados
+- **Milhares de moldes** cadastrados
 - **R$5,6M** em perdas monitoradas anualmente
 
 ---
