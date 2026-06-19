@@ -48,3 +48,32 @@ Os dados analisados são provenientes de um setor industrial com:
 ## 🗂️ Modelo de Dados
 
 As consultas foram desenvolvidas com base no seguinte modelo:
+dados (fato)
+
+├── dim_turno
+
+├── dim_operador
+
+├── dim_injetora
+
+├── cad_pecas
+
+└── perdas
+
+└── pecas
+
+---
+
+## 🛠️ Tecnologias
+
+- SQL (MySQL / PostgreSQL compatível)
+- Modelo dimensional baseado no projeto Power BI
+- Dados originados do ERP Protheus
+
+---
+
+## 👤 Autor
+
+**Jhonathan Panisson**
+Analista de Dados em Transição | Power BI · SQL · Python
+[GitHub](https://github.com/rjpanisson) | [LinkedIn](https://linkedin.com/in/jhonathan-panisson)
